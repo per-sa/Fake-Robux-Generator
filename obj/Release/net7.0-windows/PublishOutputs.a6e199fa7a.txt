@@ -1,0 +1,5 @@
+C:\Users\matheus\source\repos\RobuxGenerator\RobuxGenerator\bin\Release\net7.0-windows\publish\RobuxGenerator.exe
+C:\Users\matheus\source\repos\RobuxGenerator\RobuxGenerator\bin\Release\net7.0-windows\publish\RobuxGenerator.dll
+C:\Users\matheus\source\repos\RobuxGenerator\RobuxGenerator\bin\Release\net7.0-windows\publish\RobuxGenerator.deps.json
+C:\Users\matheus\source\repos\RobuxGenerator\RobuxGenerator\bin\Release\net7.0-windows\publish\RobuxGenerator.runtimeconfig.json
+C:\Users\matheus\source\repos\RobuxGenerator\RobuxGenerator\bin\Release\net7.0-windows\publish\RobuxGenerator.pdb
